@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 itzfahad 」──
 </h2>
 
 <p align="center">
