@@ -89,11 +89,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="🖥️ ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs 🖥️", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="fallen_"),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/supporxd_07"),
+        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/fairy_support"),
     ],
     [
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id=1091615960"),
@@ -400,10 +400,10 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/supporxd_07"
+                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/fairy_support"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/supporxd_07"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/fairy_support"
                         ),
                     ],
                     [
@@ -452,7 +452,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 
 
 {BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/AnonymousX1025/FallenRobot/blob/master/LICENSE).
-© 2022 - 2023 [ꜰᴀɪʀʏ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/fairy_support), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+© 2022 - 2023 [ꜰᴀɪʀʏ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/fairy_suppory), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -725,10 +725,10 @@ def main():
 ㅤ🥀 {BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ...
 
 ┏•❅────✧❅✦❅✧────❅•┓
-ㅤ★ **ᴘʏᴛʜᴏɴ :** `{y()}`
-ㅤ★ **ʟɪʙʀᴀʀʏ :** `{telever}`
-ㅤ★ **ᴛᴇʟᴇᴛʜᴏɴ :** `{tlhver}`
-ㅤ★ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
+ㅤ🥀 **ᴘʏᴛʜᴏɴ :** `{y()}`
+ㅤ🥀 **ʟɪʙʀᴀʀʏ :** `{telever}`
+ㅤ🥀 **ᴛᴇʟᴇᴛʜᴏɴ :** `{tlhver}`
+ㅤ🥀 **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 ┗•❅────✧❅✦❅✧────❅•┛""",
                 parse_mode=ParseMode.MARKDOWN,
             )
